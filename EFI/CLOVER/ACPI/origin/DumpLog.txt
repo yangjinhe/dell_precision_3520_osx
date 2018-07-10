@@ -1,0 +1,230 @@
+12:473  6:792  Found BIOS RSDP at F0040
+12:473  0:000  Printing ACPI tables from RSDP F0040 ...
+12:473  0:000   F0040: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+12:473  0:000    (Xsdt: BA5EC0C8, Rsdt: BA5EC028)
+12:473  0:000    BA5EC0C8: 'XSDT', 'CBX3', Rev: 1, Len: 276
+12:473  0:000    BA5EC028: 'RSDT', 'CBX3', Rev: 1, Len: 156
+12:473  0:000    Tables in Xsdt: 30
+12:473  0:000    0. BA612880: 'FACP', 'CBX3', Rev: 5, Len: 268
+12:473  0:000        (Dsdt: BA5EC270, Facs: BAF5DE80, XDsdt: BA5EC270, XFacs: 0)
+12:473  0:000        BA5EC270: 'DSDT', 'CBX3', Rev: 2, Len: 157193
+12:476  0:002        BAF5DE80: 'FACS', Ver: 2, Len: 64
+12:476  0:000    1. BA613000: 'UEFI', 'RstSataE', Rev: 1, Len: 1594
+12:476  0:000    2. BA613640: 'APIC', 'CBX3', Rev: 3, Len: 188
+12:476  0:000    3. BA613700: 'FPDT', 'CBX3', Rev: 1, Len: 68
+12:476  0:000    4. BA613748: 'FIDT', 'CBX3', Rev: 1, Len: 172
+12:476  0:000    5. BA6137F8: 'MCFG', 'CBX3', Rev: 1, Len: 60
+12:476  0:000    6. BA613838: 'HPET', 'CBX3', Rev: 1, Len: 56
+12:476  0:000    7. BA613870: 'SSDT', 'SataTabl', Rev: 1, Len: 1369
+12:476  0:000    8. BA613DD0: 'SSDT', 'SaSsdt', Rev: 2, Len: 4862
+12:476  0:000    9. BA6150D0: 'SSDT', 'PegSsdt', Rev: 2, Len: 10944
+12:476  0:000    10. BA617B90: 'HPET', 'KBL', Rev: 1, Len: 56
+12:476  0:000    11. BA617BC8: 'SSDT', 'xh_rvp11', Rev: 2, Len: 3304
+12:476  0:000    12. BA6188B0: 'UEFI', '', Rev: 1, Len: 66
+12:476  0:000    13. BA6188F8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3806
+12:476  0:000    14. BA6197D8: 'LPIT', 'KBL', Rev: 1, Len: 148
+12:476  0:000    15. BA619870: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+12:476  0:000    16. BA6199B8: 'SSDT', 'sensrhub', Rev: 2, Len: 671
+12:476  0:000    17. BA619C58: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+12:476  0:000    18. BA61CC60: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1303
+12:476  0:000    19. BA61D178: 'DBGP', '', Rev: 1, Len: 52
+12:476  0:000    20. BA61D1B0: 'DBG2', '', Rev: 0, Len: 84
+12:476  0:000    21. BA61D208: 'SSDT', 'DptfTabl', Rev: 2, Len: 21093
+12:476  0:000    22. BA622470: 'MSDM', 'CBX3', Rev: 3, Len: 85
+12:476  0:000    23. BA6224C8: 'SLIC', 'CBX3', Rev: 3, Len: 374
+12:476  0:000    24. BA622640: 'SSDT', 'SgPeg', Rev: 2, Len: 106
+12:476  0:000    25. BA6226B0: 'DMAR', 'KBL', Rev: 1, Len: 240
+12:476  0:000    26. BA6227A0: 'UEFI', 'RstSataV', Rev: 1, Len: 92
+12:476  0:000    27. BA622800: 'SSDT', 'OptTabl', Rev: 1, Len: 7535
+12:476  0:000    28. BA624570: 'ASF!', ' HCG', Rev: 32, Len: 160
+12:476  0:000    29. BA624610: 'BGRT', '', Rev: 0, Len: 56
+12:476  0:000    Tables in Rsdt: 30
+12:476  0:000    0. BA5EC1E8: 'FACP', 'CBX3', Rev: 2, Len: 132
+12:476  0:000        (Dsdt: BA5EC270, Facs: BAF5DE40)
+12:476  0:000        BA5EC270: 'DSDT', 'CBX3', Rev: 2, Len: 157193
+12:479  0:003        BAF5DE40: 'FACS', Ver: 0, Len: 64
+12:479  0:000    1. BA613000: 'UEFI', 'RstSataE', Rev: 1, Len: 1594
+12:479  0:000    2. BA613640: 'APIC', 'CBX3', Rev: 3, Len: 188
+12:479  0:000    3. BA613700: 'FPDT', 'CBX3', Rev: 1, Len: 68
+12:479  0:000    4. BA613748: 'FIDT', 'CBX3', Rev: 1, Len: 172
+12:479  0:000    5. BA6137F8: 'MCFG', 'CBX3', Rev: 1, Len: 60
+12:479  0:000    6. BA613838: 'HPET', 'CBX3', Rev: 1, Len: 56
+12:479  0:000    7. BA613870: 'SSDT', 'SataTabl', Rev: 1, Len: 1369
+12:479  0:000    8. BA613DD0: 'SSDT', 'SaSsdt', Rev: 2, Len: 4862
+12:479  0:000    9. BA6150D0: 'SSDT', 'PegSsdt', Rev: 2, Len: 10944
+12:479  0:000    10. BA617B90: 'HPET', 'KBL', Rev: 1, Len: 56
+12:479  0:000    11. BA617BC8: 'SSDT', 'xh_rvp11', Rev: 2, Len: 3304
+12:479  0:000    12. BA6188B0: 'UEFI', '', Rev: 1, Len: 66
+12:479  0:000    13. BA6188F8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3806
+12:479  0:000    14. BA6197D8: 'LPIT', 'KBL', Rev: 1, Len: 148
+12:479  0:000    15. BA619870: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+12:479  0:000    16. BA6199B8: 'SSDT', 'sensrhub', Rev: 2, Len: 671
+12:479  0:000    17. BA619C58: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+12:479  0:000    18. BA61CC60: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1303
+12:479  0:000    19. BA61D178: 'DBGP', '', Rev: 1, Len: 52
+12:479  0:000    20. BA61D1B0: 'DBG2', '', Rev: 0, Len: 84
+12:479  0:000    21. BA61D208: 'SSDT', 'DptfTabl', Rev: 2, Len: 21093
+12:479  0:000    22. BA622470: 'MSDM', 'CBX3', Rev: 3, Len: 85
+12:479  0:000    23. BA6224C8: 'SLIC', 'CBX3', Rev: 3, Len: 374
+12:479  0:000    24. BA622640: 'SSDT', 'SgPeg', Rev: 2, Len: 106
+12:479  0:000    25. BA6226B0: 'DMAR', 'KBL', Rev: 1, Len: 240
+12:479  0:000    26. BA6227A0: 'UEFI', 'RstSataV', Rev: 1, Len: 92
+12:479  0:000    27. BA622800: 'SSDT', 'OptTabl', Rev: 1, Len: 7535
+12:479  0:000    28. BA624570: 'ASF!', ' HCG', Rev: 32, Len: 160
+12:479  0:000    29. BA624610: 'BGRT', '', Rev: 0, Len: 56
+12:479  0:000  Found UEFI Acpi 2.0 RSDP at BA5EC000
+12:479  0:000  Saving ACPI tables from RSDP BA5EC000 to EFI\CLOVER\ACPI\origin ...
+12:479  0:000   BA5EC000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+12:564  0:084    (Xsdt: BA5EC0C8, Rsdt: BA5EC028)
+12:564  0:000    BA5EC0C8: 'XSDT', 'CBX3', Rev: 1, Len: 276 -> XSDT.aml
+12:598  0:034    BA5EC028: 'RSDT', 'CBX3', Rev: 1, Len: 156 -> RSDT.aml
+12:634  0:035    Tables in Xsdt: 30
+12:634  0:000    0. BA612880: 'FACP', 'CBX3', Rev: 5, Len: 268 -> FACP.aml
+12:668  0:033        (Dsdt: BA5EC270, Facs: BAF5DE80, XDsdt: BA5EC270, XFacs: 0)
+12:668  0:000        BA5EC270: 'DSDT', 'CBX3', Rev: 2, Len: 157193 -> DSDT.aml
+12:740  0:072        BAF5DE80: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+12:777  0:036    1. BA613000: 'UEFI', 'RstSataE', Rev: 1, Len: 1594 -> UEFI.aml
+12:820  0:043    2. BA613640: 'APIC', 'CBX3', Rev: 3, Len: 188 -> APIC.aml
+12:861  0:040    3. BA613700: 'FPDT', 'CBX3', Rev: 1, Len: 68 -> FPDT.aml
+12:901  0:039    4. BA613748: 'FIDT', 'CBX3', Rev: 1, Len: 172 -> FIDT.aml
+12:938  0:037    5. BA6137F8: 'MCFG', 'CBX3', Rev: 1, Len: 60 -> MCFG.aml
+12:974  0:035    6. BA613838: 'HPET', 'CBX3', Rev: 1, Len: 56 -> HPET.aml
+13:017  0:042    7. BA613870: 'SSDT', 'SataTabl', Rev: 1, Len: 1369 -> SSDT-0-SataTabl.aml
+13:069  0:052    8. BA613DD0: 'SSDT', 'SaSsdt', Rev: 2, Len: 4862 -> SSDT-1-SaSsdt.aml
+13:114  0:045    9. BA6150D0: 'SSDT', 'PegSsdt', Rev: 2, Len: 10944 -> SSDT-2-PegSsdt.aml
+13:159  0:044    10. BA617B90: 'HPET', 'KBL', Rev: 1, Len: 56 -> HPET.aml
+13:224  0:064    11. BA617BC8: 'SSDT', 'xh_rvp11', Rev: 2, Len: 3304 -> SSDT-3-xh_rvp11.aml
+13:266  0:041    12. BA6188B0: 'UEFI', '', Rev: 1, Len: 66 -> UEFI.aml
+13:332  0:065    13. BA6188F8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3806 -> SSDT-4-CpuSsdt.aml (Found hidden SSDT 7 pcs)
+13:371  0:039        * BA38E098: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1617  53 53 44 54 51 06 00 00 02 BF 50 6D 52 65 66 00 Internal length = 1617 -> SSDT-x4_0-Cpu0Ist.aml
+13:427  0:055        * BA308018: 'SSDT', 'ApIst', Rev: 2, Len: 1628  53 53 44 54 5C 06 00 00 02 AF 50 6D 52 65 66 00 Internal length = 1628 -> SSDT-x4_1-ApIst.aml
+13:487  0:060        * BA307018: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 1023  53 53 44 54 FF 03 00 00 02 AF 50 6D 52 65 66 00 Internal length = 1023 -> SSDT-x4_2-Cpu0Cst.aml
+13:543  0:055        * BA307D18: 'SSDT', 'ApCst', Rev: 2, Len: 394  53 53 44 54 8A 01 00 00 02 39 50 6D 52 65 66 00 Internal length = 394 -> SSDT-x4_3-ApCst.aml
+13:599  0:056        * B7ED3E98: 'SSDT', 'Cpu0Hwp', Rev: 2, Len: 277  53 53 44 54 15 01 00 00 02 AE 50 6D 52 65 66 00 Internal length = 277 -> SSDT-x4_4-Cpu0Hwp.aml
+13:659  0:060        * B7ED8418: 'SSDT', 'ApHwp', Rev: 2, Len: 407  53 53 44 54 97 01 00 00 02 F1 50 6D 52 65 66 00 Internal length = 407 -> SSDT-x4_5-ApHwp.aml
+13:739  0:079        * B7ED0D18: 'SSDT', 'HwpLvt', Rev: 2, Len: 420  53 53 44 54 A4 01 00 00 02 3C 50 6D 52 65 66 00 Internal length = 420 -> SSDT-x4_6-HwpLvt.aml
+13:799  0:059  
+13:799  0:000    14. BA6197D8: 'LPIT', 'KBL', Rev: 1, Len: 148 -> LPIT.aml
+13:850  0:051    15. BA619870: 'SSDT', 'HdaDsp', Rev: 2, Len: 321 -> SSDT-5-HdaDsp.aml
+13:910  0:059    16. BA6199B8: 'SSDT', 'sensrhub', Rev: 2, Len: 671 -> SSDT-6-sensrhub.aml
+13:965  0:055    17. BA619C58: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290 -> SSDT-7-PtidDevc.aml
+14:024  0:058    18. BA61CC60: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1303 -> SSDT-8-TbtTypeC.aml
+14:099  0:075    19. BA61D178: 'DBGP', '', Rev: 1, Len: 52 -> DBGP.aml
+14:157  0:058    20. BA61D1B0: 'DBG2', '', Rev: 0, Len: 84 -> DBG2.aml
+14:211  0:053    21. BA61D208: 'SSDT', 'DptfTabl', Rev: 2, Len: 21093 -> SSDT-9-DptfTabl.aml
+14:275  0:064    22. BA622470: 'MSDM', 'CBX3', Rev: 3, Len: 85 -> MSDM.aml
+14:336  0:061    23. BA6224C8: 'SLIC', 'CBX3', Rev: 3, Len: 374 -> SLIC.aml
+14:392  0:055    24. BA622640: 'SSDT', 'SgPeg', Rev: 2, Len: 106 -> SSDT-10-SgPeg.aml
+14:458  0:065    25. BA6226B0: 'DMAR', 'KBL', Rev: 1, Len: 240 -> DMAR.aml
+14:520  0:062    26. BA6227A0: 'UEFI', 'RstSataV', Rev: 1, Len: 92 -> UEFI.aml
+14:599  0:078    27. BA622800: 'SSDT', 'OptTabl', Rev: 1, Len: 7535 -> SSDT-11-OptTabl.aml
+14:664  0:064    28. BA624570: 'ASF!', ' HCG', Rev: 32, Len: 160 -> ASF!.aml
+14:730  0:066    29. BA624610: 'BGRT', '', Rev: 0, Len: 56 -> BGRT.aml
+14:778  0:047    Tables in Rsdt: 30
+14:778  0:000    0. BA5EC1E8: 'FACP', 'CBX3', Rev: 2, Len: 132 -> RSDT-FACP.aml
+14:832  0:054        (Dsdt: BA5EC270, Facs: BAF5DE40)
+14:832  0:000        BA5EC270: 'DSDT', 'CBX3', Rev: 2, Len: 157193
+14:835  0:002        BAF5DE40: 'FACS', Ver: 0, Len: 64 -> RSDT-FACS.aml
+14:882  0:046    1. BA613000: 'UEFI', 'RstSataE', Rev: 1, Len: 1594
+14:882  0:000    2. BA613640: 'APIC', 'CBX3', Rev: 3, Len: 188
+14:882  0:000    3. BA613700: 'FPDT', 'CBX3', Rev: 1, Len: 68
+14:882  0:000    4. BA613748: 'FIDT', 'CBX3', Rev: 1, Len: 172
+14:882  0:000    5. BA6137F8: 'MCFG', 'CBX3', Rev: 1, Len: 60
+14:882  0:000    6. BA613838: 'HPET', 'CBX3', Rev: 1, Len: 56
+14:882  0:000    7. BA613870: 'SSDT', 'SataTabl', Rev: 1, Len: 1369
+14:882  0:000    8. BA613DD0: 'SSDT', 'SaSsdt', Rev: 2, Len: 4862
+14:882  0:000    9. BA6150D0: 'SSDT', 'PegSsdt', Rev: 2, Len: 10944
+14:882  0:000    10. BA617B90: 'HPET', 'KBL', Rev: 1, Len: 56
+14:882  0:000    11. BA617BC8: 'SSDT', 'xh_rvp11', Rev: 2, Len: 3304
+14:882  0:000    12. BA6188B0: 'UEFI', '', Rev: 1, Len: 66
+14:882  0:000    13. BA6188F8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3806
+14:882  0:000    14. BA6197D8: 'LPIT', 'KBL', Rev: 1, Len: 148
+14:882  0:000    15. BA619870: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+14:882  0:000    16. BA6199B8: 'SSDT', 'sensrhub', Rev: 2, Len: 671
+14:882  0:000    17. BA619C58: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+14:882  0:000    18. BA61CC60: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1303
+14:882  0:000    19. BA61D178: 'DBGP', '', Rev: 1, Len: 52
+14:882  0:000    20. BA61D1B0: 'DBG2', '', Rev: 0, Len: 84
+14:882  0:000    21. BA61D208: 'SSDT', 'DptfTabl', Rev: 2, Len: 21093
+14:882  0:000    22. BA622470: 'MSDM', 'CBX3', Rev: 3, Len: 85
+14:882  0:000    23. BA6224C8: 'SLIC', 'CBX3', Rev: 3, Len: 374
+14:882  0:000    24. BA622640: 'SSDT', 'SgPeg', Rev: 2, Len: 106
+14:882  0:000    25. BA6226B0: 'DMAR', 'KBL', Rev: 1, Len: 240
+14:882  0:000    26. BA6227A0: 'UEFI', 'RstSataV', Rev: 1, Len: 92
+14:882  0:000    27. BA622800: 'SSDT', 'OptTabl', Rev: 1, Len: 7535
+14:882  0:000    28. BA624570: 'ASF!', ' HCG', Rev: 32, Len: 160
+14:882  0:000    29. BA624610: 'BGRT', '', Rev: 0, Len: 56
+14:882  0:000  Found UEFI Acpi 1.0 RSDP at BA5EC000
+14:882  0:000  Printing ACPI tables from RSDP BA5EC000 ...
+14:882  0:000   BA5EC000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+14:882  0:000    (Xsdt: BA5EC0C8, Rsdt: BA5EC028)
+14:882  0:000    BA5EC0C8: 'XSDT', 'CBX3', Rev: 1, Len: 276
+14:882  0:000    BA5EC028: 'RSDT', 'CBX3', Rev: 1, Len: 156
+14:882  0:000    Tables in Xsdt: 30
+14:882  0:000    0. BA612880: 'FACP', 'CBX3', Rev: 5, Len: 268
+14:882  0:000        (Dsdt: BA5EC270, Facs: BAF5DE80, XDsdt: BA5EC270, XFacs: 0)
+14:882  0:000        BA5EC270: 'DSDT', 'CBX3', Rev: 2, Len: 157193
+14:886  0:003        BAF5DE80: 'FACS', Ver: 2, Len: 64
+14:886  0:000    1. BA613000: 'UEFI', 'RstSataE', Rev: 1, Len: 1594
+14:886  0:000    2. BA613640: 'APIC', 'CBX3', Rev: 3, Len: 188
+14:886  0:000    3. BA613700: 'FPDT', 'CBX3', Rev: 1, Len: 68
+14:886  0:000    4. BA613748: 'FIDT', 'CBX3', Rev: 1, Len: 172
+14:886  0:000    5. BA6137F8: 'MCFG', 'CBX3', Rev: 1, Len: 60
+14:886  0:000    6. BA613838: 'HPET', 'CBX3', Rev: 1, Len: 56
+14:886  0:000    7. BA613870: 'SSDT', 'SataTabl', Rev: 1, Len: 1369
+14:886  0:000    8. BA613DD0: 'SSDT', 'SaSsdt', Rev: 2, Len: 4862
+14:886  0:000    9. BA6150D0: 'SSDT', 'PegSsdt', Rev: 2, Len: 10944
+14:886  0:000    10. BA617B90: 'HPET', 'KBL', Rev: 1, Len: 56
+14:886  0:000    11. BA617BC8: 'SSDT', 'xh_rvp11', Rev: 2, Len: 3304
+14:886  0:000    12. BA6188B0: 'UEFI', '', Rev: 1, Len: 66
+14:886  0:000    13. BA6188F8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3806
+14:886  0:000    14. BA6197D8: 'LPIT', 'KBL', Rev: 1, Len: 148
+14:886  0:000    15. BA619870: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+14:886  0:000    16. BA6199B8: 'SSDT', 'sensrhub', Rev: 2, Len: 671
+14:886  0:000    17. BA619C58: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+14:886  0:000    18. BA61CC60: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1303
+14:886  0:000    19. BA61D178: 'DBGP', '', Rev: 1, Len: 52
+14:886  0:000    20. BA61D1B0: 'DBG2', '', Rev: 0, Len: 84
+14:886  0:000    21. BA61D208: 'SSDT', 'DptfTabl', Rev: 2, Len: 21093
+14:886  0:000    22. BA622470: 'MSDM', 'CBX3', Rev: 3, Len: 85
+14:886  0:000    23. BA6224C8: 'SLIC', 'CBX3', Rev: 3, Len: 374
+14:886  0:000    24. BA622640: 'SSDT', 'SgPeg', Rev: 2, Len: 106
+14:886  0:000    25. BA6226B0: 'DMAR', 'KBL', Rev: 1, Len: 240
+14:886  0:000    26. BA6227A0: 'UEFI', 'RstSataV', Rev: 1, Len: 92
+14:886  0:000    27. BA622800: 'SSDT', 'OptTabl', Rev: 1, Len: 7535
+14:886  0:000    28. BA624570: 'ASF!', ' HCG', Rev: 32, Len: 160
+14:886  0:000    29. BA624610: 'BGRT', '', Rev: 0, Len: 56
+14:886  0:000    Tables in Rsdt: 30
+14:886  0:000    0. BA5EC1E8: 'FACP', 'CBX3', Rev: 2, Len: 132
+14:886  0:000        (Dsdt: BA5EC270, Facs: BAF5DE40)
+14:886  0:000        BA5EC270: 'DSDT', 'CBX3', Rev: 2, Len: 157193
+14:888  0:002        BAF5DE40: 'FACS', Ver: 0, Len: 64
+14:888  0:000    1. BA613000: 'UEFI', 'RstSataE', Rev: 1, Len: 1594
+14:888  0:000    2. BA613640: 'APIC', 'CBX3', Rev: 3, Len: 188
+14:888  0:000    3. BA613700: 'FPDT', 'CBX3', Rev: 1, Len: 68
+14:888  0:000    4. BA613748: 'FIDT', 'CBX3', Rev: 1, Len: 172
+14:888  0:000    5. BA6137F8: 'MCFG', 'CBX3', Rev: 1, Len: 60
+14:889  0:000    6. BA613838: 'HPET', 'CBX3', Rev: 1, Len: 56
+14:889  0:000    7. BA613870: 'SSDT', 'SataTabl', Rev: 1, Len: 1369
+14:889  0:000    8. BA613DD0: 'SSDT', 'SaSsdt', Rev: 2, Len: 4862
+14:889  0:000    9. BA6150D0: 'SSDT', 'PegSsdt', Rev: 2, Len: 10944
+14:889  0:000    10. BA617B90: 'HPET', 'KBL', Rev: 1, Len: 56
+14:889  0:000    11. BA617BC8: 'SSDT', 'xh_rvp11', Rev: 2, Len: 3304
+14:889  0:000    12. BA6188B0: 'UEFI', '', Rev: 1, Len: 66
+14:889  0:000    13. BA6188F8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3806
+14:889  0:000    14. BA6197D8: 'LPIT', 'KBL', Rev: 1, Len: 148
+14:889  0:000    15. BA619870: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+14:889  0:000    16. BA6199B8: 'SSDT', 'sensrhub', Rev: 2, Len: 671
+14:889  0:000    17. BA619C58: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+14:889  0:000    18. BA61CC60: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1303
+14:889  0:000    19. BA61D178: 'DBGP', '', Rev: 1, Len: 52
+14:889  0:000    20. BA61D1B0: 'DBG2', '', Rev: 0, Len: 84
+14:889  0:000    21. BA61D208: 'SSDT', 'DptfTabl', Rev: 2, Len: 21093
+14:889  0:000    22. BA622470: 'MSDM', 'CBX3', Rev: 3, Len: 85
+14:889  0:000    23. BA6224C8: 'SLIC', 'CBX3', Rev: 3, Len: 374
+14:889  0:000    24. BA622640: 'SSDT', 'SgPeg', Rev: 2, Len: 106
+14:889  0:000    25. BA6226B0: 'DMAR', 'KBL', Rev: 1, Len: 240
+14:889  0:000    26. BA6227A0: 'UEFI', 'RstSataV', Rev: 1, Len: 92
+14:889  0:000    27. BA622800: 'SSDT', 'OptTabl', Rev: 1, Len: 7535
+14:889  0:000    28. BA624570: 'ASF!', ' HCG', Rev: 32, Len: 160
+14:889  0:000    29. BA624610: 'BGRT', '', Rev: 0, Len: 56
