@@ -15,3 +15,6 @@
 # 特别感谢
 - [daliansky](https://blog.daliansky.net/)提供的教程和有关文件 
 - [gunslinger23](https://github.com/gunslinger23/XPS15-9560-High-Sierra)抄袭了部分配置 
+
+
+
